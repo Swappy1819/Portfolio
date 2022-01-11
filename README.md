@@ -1,2 +1,2 @@
 # Portfolio
-This is developed by me(Swappy) and my frnd ujjwal
+This is developed by me(Swappy) and my frnd Ujjwal
