@@ -19,7 +19,9 @@
   "homepage": "https://github.com/Swappy1819/Portfolio#readme",
   "dependencies": {
     "ejs": "^3.1.6",
+    "ejs-mate": "^3.0.0",
     "express": "^4.17.2",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
   }
 }
