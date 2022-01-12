@@ -119,12 +119,13 @@ body {
 .header #explore-button {
   font-family: "Shadows Into Light", cursive;
   letter-spacing: 3px;
-  border: 2px solid red;
+  border: 2px solid red !important;
   background: transparent;
   padding: 8px 20px;
   color: rgb(107, 49, 49);
   font-weight: bold;
   border-radius: 3px;
+  text-decoration: none;
 }
 
 .header #explore-button:hover {
@@ -154,3 +155,4 @@ body {
   transform: rotate(45deg);
   transform-origin: 100% 100%;
 }
+
